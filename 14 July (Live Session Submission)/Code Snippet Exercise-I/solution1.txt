@@ -1,0 +1,2 @@
+        val = next(ADIiter)
+        print(val,end=' ')
